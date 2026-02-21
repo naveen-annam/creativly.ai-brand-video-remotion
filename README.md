@@ -54,14 +54,12 @@ npx remotion render src/index.ts CreativlyBrandVideo out/brand-video.mp4
 | Duration | ~57 seconds |
 | Format | MP4 (H.264) |
 
-## Watch the Video
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=5GCzrX0CNkc">
     <img src="https://img.youtube.com/vi/5GCzrX0CNkc/maxresdefault.jpg" alt="Remotion + Claude Code: Worth the Hype?" width="800" />
   </a>
   <br />
-  <a href="https://www.youtube.com/watch?v=5GCzrX0CNkc"><strong>Remotion + Claude Code: Worth the Hype?</strong></a>
+  <a href="https://www.youtube.com/watch?v=5GCzrX0CNkc"><strong>Watch the full video</strong></a>
 </p>
 
 ## Features
