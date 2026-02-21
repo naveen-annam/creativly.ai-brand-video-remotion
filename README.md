@@ -4,6 +4,8 @@ This project demonstrates what's possible when you combine **Claude Code** (Anth
 
 <p align="center">
   <img src="https://pub-60e30bed45514f03933d3900731bea31.r2.dev/brand-video/preview.gif" alt="Creativly.ai Brand Video Preview" width="800" />
+  <br /><br />
+  <a href="https://pub-60e30bed45514f03933d3900731bea31.r2.dev/brand-video/CreativlyBrandVideo.mp4"><strong>Watch the full video</strong></a>
 </p>
 
 If you're looking for a real-world example of:
