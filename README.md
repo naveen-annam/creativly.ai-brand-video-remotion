@@ -2,8 +2,6 @@
 
 A production-grade **programmatic brand video** built entirely with [Remotion](https://remotion.dev) and [Claude Code](https://claude.ai/claude-code). 17 scenes, 34 components, 12,000+ lines of React — all animations driven purely by `useCurrentFrame()`, `spring()`, `interpolate()`, and `noise2D()`. Zero CSS animations.
 
-https://github.com/user-attachments/assets/placeholder
-
 ## Why This Exists
 
 This project demonstrates what's possible when you combine **Claude Code** (Anthropic's AI coding agent) with **Remotion** (React-based video rendering). Every scene, transition, component, and animation was built through iterative AI-assisted development — from V1 to V26 across multiple sessions.
