@@ -181,14 +181,17 @@ public/                  # Static assets (screenshots, logos)
 - **React 19** + **TypeScript 5.9**
 - **Tailwind CSS 4**
 
-## Built With Claude Code
+## Built With Claude Code + Remotion Skill
 
-This entire project was built using [Claude Code](https://claude.ai/claude-code) — Anthropic's AI coding CLI. The development process involved:
+This entire project was built using [Claude Code](https://claude.ai/claude-code) — Anthropic's AI coding CLI — powered by the **[Remotion Best Practices skill](https://remotion.dev/docs/claude-code)** which gave Claude Code deep knowledge of Remotion's APIs, animation patterns, and best practices.
+
+The development process involved:
 
 1. **Initial scaffolding** — Remotion project setup, scene structure, transition ordering
-2. **Deep dive exploration** — Claude Code agents analyzed the Creativly.ai frontend codebase to catalog every visual feature, UI pattern, and interaction
-3. **Systematic enrichment** — Each scene was enhanced with frontend-inspired details through parallel agent architecture (3 agents editing different files simultaneously)
-4. **26 iterative versions** — From basic scenes to the fully enriched final product
+2. **Remotion skill guidance** — Claude Code's Remotion skill ensured correct usage of `spring()`, `interpolate()`, `TransitionSeries`, `evolvePath()`, `noise2D()`, and all Remotion packages — no guessing, no CSS animation fallbacks
+3. **Deep dive exploration** — Claude Code agents analyzed the Creativly.ai frontend codebase to catalog every visual feature, UI pattern, and interaction
+4. **Systematic enrichment** — Each scene was enhanced with frontend-inspired details through parallel agent architecture (3 agents editing different files simultaneously)
+5. **26 iterative versions** — From basic scenes to the fully enriched final product
 
 Every line of code was written by Claude Code, type-checked with `npx tsc --noEmit`, and committed — zero TypeScript errors throughout.
 
