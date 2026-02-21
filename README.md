@@ -6,14 +6,6 @@ This project demonstrates what's possible when you combine **Claude Code** (Anth
   <img src="https://pub-60e30bed45514f03933d3900731bea31.r2.dev/brand-video/preview.gif" alt="Creativly.ai Brand Video Preview" width="800" />
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=5GCzrX0CNkc">
-    <img src="https://img.youtube.com/vi/5GCzrX0CNkc/maxresdefault.jpg" alt="Remotion + Claude Code: Worth the Hype?" width="800" />
-  </a>
-  <br />
-  <a href="https://www.youtube.com/watch?v=5GCzrX0CNkc"><strong>Remotion + Claude Code: Worth the Hype?</strong></a>
-</p>
-
 If you're looking for a real-world example of:
 - Building complex Remotion videos with AI assistance
 - Advanced Remotion animation patterns and transitions
@@ -61,6 +53,16 @@ npx remotion render src/index.ts CreativlyBrandVideo out/brand-video.mp4
 | Frame Rate | 30 fps |
 | Duration | ~57 seconds |
 | Format | MP4 (H.264) |
+
+## Watch the Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=5GCzrX0CNkc">
+    <img src="https://img.youtube.com/vi/5GCzrX0CNkc/maxresdefault.jpg" alt="Remotion + Claude Code: Worth the Hype?" width="800" />
+  </a>
+  <br />
+  <a href="https://www.youtube.com/watch?v=5GCzrX0CNkc"><strong>Remotion + Claude Code: Worth the Hype?</strong></a>
+</p>
 
 ## Features
 
