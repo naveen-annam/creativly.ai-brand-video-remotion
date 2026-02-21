@@ -1,16 +1,14 @@
+# [Creativly.ai](https://www.creativly.ai) Brand Video — Built with Remotion + Claude Code
+
+A production-grade **programmatic brand video** for [Creativly.ai](https://www.creativly.ai) — built entirely with [Remotion](https://remotion.dev) and [Claude Code](https://claude.ai/claude-code). 17 scenes, 34 components, 12,000+ lines of React — all animations driven purely by `useCurrentFrame()`, `spring()`, `interpolate()`, and `noise2D()`. Zero CSS animations.
+
 <p align="center">
-  <img src="https://pub-60e30bed45514f03933d3900731bea31.r2.dev/brand-video/preview.gif" alt="Creativly.ai Brand Video" width="800" />
+  <img src="https://pub-60e30bed45514f03933d3900731bea31.r2.dev/brand-video/preview.gif" alt="Creativly.ai Brand Video Preview" width="800" />
   <br /><br />
   <a href="https://pub-60e30bed45514f03933d3900731bea31.r2.dev/brand-video/CreativlyBrandVideo.mp4"><strong>Watch the full video</strong></a>
 </p>
 
-# [Creativly.ai](https://www.creativly.ai) Brand Video
-
-We needed a brand video for [Creativly.ai](https://www.creativly.ai). Instead of hiring a motion designer or opening After Effects, we wrote it in React.
-
-This is a 52-second video with 17 scenes, 13 transitions, and 16 reusable animation components — all rendered with [Remotion](https://remotion.dev). Every single animation is frame-driven through `useCurrentFrame()`, `spring()`, and `interpolate()`. No CSS animations anywhere.
-
-The whole thing was built with [Claude Code](https://claude.ai/claude-code) and the [Remotion Best Practices skill](https://remotion.dev/docs/claude-code) across 26 iterations. 12,000+ lines of TypeScript, zero errors.
+Built from scratch across 26 versions using Claude Code with the [Remotion Best Practices skill](https://remotion.dev/docs/claude-code).
 
 ## Getting Started
 
