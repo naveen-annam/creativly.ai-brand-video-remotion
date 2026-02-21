@@ -3,7 +3,9 @@
 This project demonstrates what's possible when you combine **Claude Code** (Anthropic's AI coding agent) with **Remotion** (React-based video rendering). Every scene, transition, component, and animation was built through iterative AI-assisted development — from V1 to V26 across multiple sessions.
 
 <p align="center">
-  <video src="https://pub-60e30bed45514f03933d3900731bea31.r2.dev/brand-video/CreativlyBrandVideo.mp4" width="800" autoplay loop muted playsinline></video>
+  <img src="https://pub-60e30bed45514f03933d3900731bea31.r2.dev/brand-video/preview.gif" alt="Creativly.ai Brand Video Preview" width="800" />
+  <br /><br />
+  <a href="https://pub-60e30bed45514f03933d3900731bea31.r2.dev/brand-video/CreativlyBrandVideo.mp4"><strong>Watch the full video</strong></a>
 </p>
 
 If you're looking for a real-world example of:
