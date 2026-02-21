@@ -6,11 +6,17 @@
 
 # [Creativly.ai](https://www.creativly.ai) Brand Video — Built with Remotion + Claude Code
 
-We needed a brand video for [Creativly.ai](https://www.creativly.ai). Instead of hiring a motion designer or opening After Effects, we wrote it in React.
+This project demonstrates what's possible when you combine **Claude Code** (Anthropic's AI coding agent) with **Remotion** (React-based video rendering). Every scene, transition, component, and animation was built through iterative AI-assisted development — from V1 to V26 across multiple sessions.
 
-This is a 52-second video with 17 scenes, 13 transitions, and 16 reusable animation components — all rendered with [Remotion](https://remotion.dev). Every single animation is frame-driven through `useCurrentFrame()`, `spring()`, and `interpolate()`. No CSS animations anywhere.
+If you're looking for a real-world example of:
+- Building complex Remotion videos with AI assistance
+- Advanced Remotion animation patterns and transitions
+- Frame-driven animation architecture (no CSS transitions)
+- Glass morphism, kinetic typography, and cinematic UI recreation in React
 
-The whole thing was built with [Claude Code](https://claude.ai/claude-code) and the [Remotion Best Practices skill](https://remotion.dev/docs/claude-code) across 26 iterations. 12,000+ lines of TypeScript, zero errors.
+...this is it.
+
+Built from scratch across 26 versions using Claude Code with the [Remotion Best Practices skill](https://remotion.dev/docs/claude-code).
 
 ## Getting Started
 
