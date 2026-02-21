@@ -1,6 +1,6 @@
-# [Creativly.ai](https://creativly.ai) Brand Video — Built with Remotion + Claude Code
+# [Creativly.ai](https://www.creativly.ai) Brand Video — Built with Remotion + Claude Code
 
-A production-grade **programmatic brand video** for [Creativly.ai](https://creativly.ai) — built entirely with [Remotion](https://remotion.dev) and [Claude Code](https://claude.ai/claude-code). 17 scenes, 34 components, 12,000+ lines of React — all animations driven purely by `useCurrentFrame()`, `spring()`, `interpolate()`, and `noise2D()`. Zero CSS animations.
+A production-grade **programmatic brand video** for [Creativly.ai](https://www.creativly.ai) — built entirely with [Remotion](https://remotion.dev) and [Claude Code](https://claude.ai/claude-code). 17 scenes, 34 components, 12,000+ lines of React — all animations driven purely by `useCurrentFrame()`, `spring()`, `interpolate()`, and `noise2D()`. Zero CSS animations.
 
 ## Why This Exists
 
@@ -202,4 +202,4 @@ MIT
 - [Remotion Documentation](https://remotion.dev/docs)
 - [Remotion GitHub](https://github.com/remotion-dev/remotion)
 - [Claude Code](https://claude.ai/claude-code)
-- [Creativly.ai](https://creativly.ai)
+- [Creativly.ai](https://www.creativly.ai)
