@@ -16,6 +16,44 @@ If you're looking for a real-world example of:
 
 ...this is it.
 
+## Getting Started
+
+### Prerequisites
+
+- Node.js 18+
+- pnpm (or npm/yarn)
+
+### Install
+
+```bash
+git clone https://github.com/naveen-annam/creativly.ai-brand-video-remotion.git
+cd creativly.ai-brand-video-remotion
+pnpm install
+```
+
+### Preview
+
+```bash
+pnpm dev
+```
+
+Opens Remotion Studio at `http://localhost:3000` where you can scrub through the video frame-by-frame.
+
+### Render
+
+```bash
+npx remotion render src/index.ts CreativlyBrandVideo out/brand-video.mp4
+```
+
+### Video Specs
+
+| Property | Value |
+|----------|-------|
+| Resolution | 1920 x 1080 (Full HD) |
+| Frame Rate | 30 fps |
+| Duration | ~57 seconds |
+| Format | MP4 (H.264) |
+
 ## Features
 
 ### 17 Cinematic Scenes
@@ -107,44 +145,6 @@ const evolved = evolvePath(progress, svgPath);
 | Background Light | `#FAFAFA` |
 | Spring (smooth) | `{ damping: 200 }` |
 | Spring (snappy) | `{ damping: 14, stiffness: 120, mass: 0.4 }` |
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js 18+
-- pnpm (or npm/yarn)
-
-### Install
-
-```bash
-git clone https://github.com/naveen-annam/creativly.ai-brand-video-remotion.git
-cd creativly.ai-brand-video-remotion
-pnpm install
-```
-
-### Preview
-
-```bash
-pnpm dev
-```
-
-Opens Remotion Studio at `http://localhost:3000` where you can scrub through the video frame-by-frame.
-
-### Render
-
-```bash
-npx remotion render src/index.ts CreativlyBrandVideo out/brand-video.mp4
-```
-
-### Video Specs
-
-| Property | Value |
-|----------|-------|
-| Resolution | 1920 x 1080 (Full HD) |
-| Frame Rate | 30 fps |
-| Duration | ~57 seconds |
-| Format | MP4 (H.264) |
 
 ## Project Structure
 
