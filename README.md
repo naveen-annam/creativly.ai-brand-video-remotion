@@ -2,6 +2,12 @@
 
 A production-grade **programmatic brand video** for [Creativly.ai](https://www.creativly.ai) — built entirely with [Remotion](https://remotion.dev) and [Claude Code](https://claude.ai/claude-code). 17 scenes, 34 components, 12,000+ lines of React — all animations driven purely by `useCurrentFrame()`, `spring()`, `interpolate()`, and `noise2D()`. Zero CSS animations.
 
+<p align="center">
+  <img src="https://pub-462b94520d73aa0730e13515cab7d6fe.r2.dev/brand-video/preview.gif" alt="Creativly.ai Brand Video Preview" width="800" />
+  <br />
+  <a href="https://pub-462b94520d73aa0730e13515cab7d6fe.r2.dev/brand-video/CreativlyBrandVideo.mp4"><strong>Watch full video (MP4)</strong></a>
+</p>
+
 ## Why This Exists
 
 This project demonstrates what's possible when you combine **Claude Code** (Anthropic's AI coding agent) with **Remotion** (React-based video rendering). Every scene, transition, component, and animation was built through iterative AI-assisted development — from V1 to V26 across multiple sessions.
